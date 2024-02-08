@@ -4,7 +4,7 @@ import random
 i=1
 j=0
 
-filepath='C:\\Users\\PC\\Documents\\Munene\\Python'
+filepath='current folder directory'
 file_path=os.path.join(filepath,"Oxford 5000.txt")
 with open(file_path,'r') as file:
     content=file.read()
