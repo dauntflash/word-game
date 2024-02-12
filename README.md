@@ -5,7 +5,7 @@
 E.G
 ![Screenshot 2024-02-12 151020](https://github.com/dauntflash/word-game/assets/107225248/9287d20d-39d1-49d9-bba1-75e4b0f71fd5)
 
--Install the "termcolor" module.
+- Install the "termcolor" module.
 Here's how(windows users):
 1. Navigate to the terminal.
 2. copy this "pip install termcolor"
