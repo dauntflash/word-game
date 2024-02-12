@@ -31,7 +31,7 @@ welcome_page()
 
 
 print(colored(rules,'green'))
-filepath='C:\\Users\\PC\\Documents\\Munene\\Python' #THE PATH TO THE FILE CONTAINIG THE WORD LIST
+filepath='YOUR DIRECTORY' #THE PATH TO THE FILE CONTAINIG THE WORD LIST
 file_path=(os.path.join(filepath,"Oxford 5000.txt")) #COMBINING THE PATH WITH THE FILE NAME, YOU CAN CHANGE THE FILE ANME TO THE NAME OF YOUR FILE
 
 try:
